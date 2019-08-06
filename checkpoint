@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/abhay/Damage estimator/AWS Damage Estimator-20190805T071237Z-001/CNN_test/dogsvscats-0.001-6conv-basic.model"
-all_model_checkpoint_paths: "/home/abhay/Damage estimator/AWS Damage Estimator-20190805T071237Z-001/CNN_test/dogsvscats-0.001-6conv-basic.model"
