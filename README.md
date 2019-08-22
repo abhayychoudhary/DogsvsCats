@@ -1,6 +1,5 @@
 # DogsvsCats CNN 
 
-
 Dogs vs. Cats
 
 ## Please Download Data from here
